@@ -1,0 +1,5 @@
+# basic make file
+# make -f Makefile-1
+
+all:
+	g++ main.cpp hello.cpp factorial.cpp -o hello
